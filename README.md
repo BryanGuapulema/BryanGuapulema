@@ -1,6 +1,6 @@
 # Hola, soy Bryan 👋
 
-¡Bienvenidos a mi GitHub! Soy un apasionado del **Desarrollo de videojuegos**, el **Diseño de aplicaciones web** y el **Desarrollo de Software**. 
+¡Bienvenidos a mi GitHub! Soy un apasionado del **Desarrollo de videojuegos**, el **Diseño de aplicaciones web** y el **Desarrollo de Software e IA**. 
 
 ## Acerca de mí
 
@@ -29,7 +29,7 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 
 Aquí tienes algunos de mis proyectos: 
 
-    - **[Videojuego de realidad virtual e Inteigencia Artificial para la exploración de descenrios turisticos de la ciudad de Riobamba(https://youtu.be/3J5ZmO6B_2A)**: Aplicativo para computadoras y gafas de realidad virtual compuesto de dos modos de juego: Videojuego y Recorrido virtual. Se recrearon 4 lugares turisticos de la ciudad de Riobamba aplicando tecnicas de gamificación y de inteligencia artificial para simular realismo en los espacios. Incluye un sistema de recomendaciones y un guía virtual en el recorrido turistico.
+- **[Videojuego de realidad virtual e Inteigencia Artificial para la exploración de descenrios turisticos de la ciudad de Riobamba](https://youtu.be/3J5ZmO6B_2A)**: Aplicativo para computadoras y gafas de realidad virtual compuesto de dos modos de juego: Videojuego y Recorrido virtual. Se recrearon 4 lugares turisticos de la ciudad de Riobamba aplicando tecnicas de gamificación y de inteligencia artificial para simular realismo en los espacios. Incluye un sistema de recomendaciones y un guía virtual en el recorrido turistico.
 <!-- - **[Nombre del Proyecto 2](https://github.com/ibsenseijas7/proyecto2)**: Breve descripción del proyecto. -->  
 
 
@@ -44,12 +44,12 @@ Aquí tienes algunos de mis proyectos:
 
 ¡Aquí puedes ver mi actividad reciente en GitHub!
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanGuapulema&show_icons=true&hide_border=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGuapulema&hide_border=true&layout=compact)  
+-->
 
-<!-- -
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/BryanGuapulema/BryanGuapulema)  
 
----
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y no dudes en contactarme si quieres colaborar o simplemente charlar. 😄
