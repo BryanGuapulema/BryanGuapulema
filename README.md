@@ -36,9 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" alt="nodejs logo"  />
 </div>
 
+<div>
+    <p> <strong>Otros</strong>: Realidad Virtual, IA, HTML, CSS, Astro.</p>
+</div>
 
 
-**Otros:**: Realidad Virtual, IA, Astro.
 
 
 ## Proyectos Destacados
@@ -47,9 +49,8 @@
 
 - **[Portafolio]()**:
 
-- 
 - **[Sistema para el análisis de legibilidad de un texto]()**:
-- 
+  
 <!-- - **[Nombre del Proyecto 2](https://github.com/ibsenseijas7/proyecto2)**: Breve descripción del proyecto. -->  
 
 
@@ -74,20 +75,13 @@
   <img src="https://github-profile-trophy.vercel.app?username=BryanGuapulema&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-###
-
 <img src="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/snake.svg" alt="Snake animation" />
 
-###
+
 
