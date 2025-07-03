@@ -19,6 +19,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" height="60" alt="unrealengine logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
@@ -57,7 +59,7 @@
 ## Contacto
 
 <div align="center">
-  <a href="www.linkedin.com/in/bryan-guapulema-91165226b" target="_blank">
+  <a href="https://www.linkedin.com/in/bryan-guapulema-91165226b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:bryan19012003@gmail.com" target="_blank">
@@ -71,17 +73,32 @@
 ## Actividad Reciente en GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BryanGuapulema&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ 
   <img src="https://github-profile-trophy.vercel.app?username=BryanGuapulema&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<!--
+
+
 <picture>
+
+ <img src="https://streak-stats.demolab.com?user=BryanGuapulema&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/pacman-contribution-graph.svg">
+
+  
 </picture>
 
+
 <img src="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/snake.svg" alt="Snake animation" />
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanGuapulema&show_icons=true&theme=radical)
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGuapulema&layout=compact)
+
+-->
+
 
 
 
