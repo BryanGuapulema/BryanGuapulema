@@ -17,25 +17,25 @@
 ## Habilidades y Tecnologías
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" height="60" alt="unrealengine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" height="80" alt="unrealengine logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="80" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="80" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="80" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="microsoftsqlserver logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="80" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo"  />
 </div>
 
 <div>
@@ -56,6 +56,14 @@
 <!-- - **[Nombre del Proyecto 2](https://github.com/ibsenseijas7/proyecto2)**: Breve descripción del proyecto. -->  
 
 
+## Actividad
+
+<div align="center">
+ 
+  <img src="https://github-profile-trophy.vercel.app?username=BryanGuapulema&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+ <img src="https://streak-stats.demolab.com?user=BryanGuapulema&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 ## Contacto
 
 <div align="center">
@@ -71,43 +79,16 @@
 </div>
 
 
-<!--
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/[BryanGuapulema]/[BryanGuapulema]/-/raw/main/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/[BryanGuapulema]/[BryanGuapulema]/-/raw/main/output/pacman-contribution-graph-light.svg">
   <img alt="pacman contribution graph" src="https://gitlab.com/[BryanGuapulema]/[BryanGuapulema]/-/raw/main/output/pacman-contribution-graph-light.svg">
 </picture>
 
-## Actividad Reciente en GitHub
-
-<div align="center">
- 
-  <img src="https://github-profile-trophy.vercel.app?username=BryanGuapulema&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-
-
-
-<picture>
-
- <img src="https://streak-stats.demolab.com?user=BryanGuapulema&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/pacman-contribution-graph.svg">
-
-  
-</picture>
-
-
-<img src="https://raw.githubusercontent.com/BryanGuapulema/BryanGuapulema/output/snake.svg" alt="Snake animation" />
-
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanGuapulema&show_icons=true&theme=radical)
-    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGuapulema&layout=compact)
 
+
 -->
-
-
-
-
