@@ -22,7 +22,8 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
   </a>
   <a href="https://wa.me/593987613597" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
+  </a>  
+    
 </div>
 
 ## 💻 Tech Stack
@@ -45,6 +46,10 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 </div>
 
 ## Proyectos Destacados
+
+
+    
+<div>
     
 - **[Videojuego de realidad virtual e Inteigencia Artificial para la exploración de descenrios turisticos de la ciudad de Riobamba](https://youtu.be/3J5ZmO6B_2A)**: Aplicativo para computadoras y gafas de realidad virtual compuesto de dos modos de juego: Videojuego y Recorrido virtual. Se recrearon 4 lugares turisticos de la ciudad de Riobamba aplicando tecnicas de gamificación y de inteligencia artificial para simular realismo en los espacios. Incluye un sistema de recomendaciones y un guía virtual en el recorrido turistico.
 
@@ -53,6 +58,14 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 - **[Gestor de Recetas de Cocina](https://github.com/BryanGuapulema/recipe_fullstack)**: API RESTful construida con Node.js y Express siguiendo el patrón Modelo-Vista-Controlador (MVC). Permite gestionar recetas con CRUD completo, búsquedas y filtros por título, ingrediente, dificultad o tiempo de preparación. Comenzó usando un archivo JSON como base de datos y luego se migró a MySQL. Incluye validaciones con Zod y un frontend básico en HTML, CSS y JS para crear, editar, eliminar y filtrar recetas dinámicamente.
   
 - **[Gestor de Libros](https://github.com/BryanGuapulema/book_exercise)**: Aplicación fullstack en Node.js/Express con validaciones Zod, que permite gestionar libros con CRUD completo y búsquedas por autor o género. Usa un archivo JSON como base de datos y un frontend en HTML y JS para listar, agregar, editar y eliminar libros. Configurada para desplegar frontend y backend con un solo comando.
+</div>
+
+<div align="center">
+    <a href="https://bgportfolio-git-main-bryanguapulemas-projects.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/PORTAFOLIO-8A2BE2" height="25" alt="portfolio" />
+    </a>
+</div>
+
 
 ## 📊 GitHub Stats:
 
