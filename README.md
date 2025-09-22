@@ -1,6 +1,6 @@
 # Hola, soy Bryan 👋
 
-Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo de software de distinto tipo con énfasis en recorridos virtuales con Unreal Engine, videojuegos IA y desarrollo fullstack de aplicaciones.
+Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo de software de distinto tipo con énfasis en recorridos virtuales con Unreal Engine, videojuegos IA y desarrollo backend de aplicaciones.
 
 ## Acerca de mí
 - 🎓 **Principal**: 
@@ -8,7 +8,7 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
     - Miembro de la Comunidad Unreal Engine Ecuador
 - 📍 **Ubicación**: Riobamba - Ecuador
 - 💼 **Campo**: Desarrollo backend / VR / Desarrollo de videojuegos
-- 🌱 **Aprendizaje actual**: Node.js / Ciencia de datos
+- 🌱 **Aprendizaje actual**: Node.js / Ingeniería de datos
 - ✨ **Siempre dispuesto o aprender**
 
 ## Contacto
@@ -56,13 +56,13 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 - **[Sistema de Reservas de Hotel - Backend](https://github.com/BryanGuapulema/hotel_reservation_backend)**: API RESTful para gestión de reservas de hotel con Node.js, Express y MongoDB. Incluye autenticación con JWT, control de roles (user / admin), manejo de habitaciones y reservas, y validación de datos con Zod. Backend seguro, escalable y diseñado con MVC.
   
 - **[Gestor de Recetas de Cocina](https://github.com/BryanGuapulema/recipe_fullstack)**: API RESTful construida con Node.js y Express siguiendo el patrón Modelo-Vista-Controlador (MVC). Permite gestionar recetas con CRUD completo, búsquedas y filtros por título, ingrediente, dificultad o tiempo de preparación. Comenzó usando un archivo JSON como base de datos y luego se migró a MySQL. Incluye validaciones con Zod y un frontend básico en HTML, CSS y JS para crear, editar, eliminar y filtrar recetas dinámicamente.
-  
-- **[Gestor de Libros](https://github.com/BryanGuapulema/book_exercise)**: Aplicación fullstack en Node.js/Express con validaciones Zod, que permite gestionar libros con CRUD completo y búsquedas por autor o género. Usa un archivo JSON como base de datos y un frontend en HTML y JS para listar, agregar, editar y eliminar libros. Configurada para desplegar frontend y backend con un solo comando.
+
+- **[Transportation Tracking](https://github.com/BryanGuapulema/transportTracking)**: Backend desarrollado  con Node.js, Express y MongoDB. Diseñado para gestionar y consultar en tiempo real el estado del transporte público de una ciudad. Permite acceder a información de líneas, estaciones, vehículos, horarios e incidentes, con autenticación JWT y roles de usuario para operadores y administradores. Es un proyecto pensado para mostrar buenas prácticas en el diseño de APIs REST y servir como base para aplicaciones de movilidad urbana.
 </div>
 
 <div align="center">
-    <a href="https://bgportfolio-git-main-bryanguapulemas-projects.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/PORTAFOLIO-8A2BE2" height="25" alt="portfolio" />
+    <a href="https://bgportfolio-git-main-bryanguapulemas-projects.vercel.app/" target="_blank" height="64">
+        <img src="https://img.shields.io/badge/PORTAFOLIO-8A2BE2"  alt="portfolio" />
     </a>
 </div>
 
