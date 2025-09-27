@@ -58,6 +58,9 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 - **[Gestor de Recetas de Cocina](https://github.com/BryanGuapulema/recipe_fullstack)**: API RESTful construida con Node.js y Express siguiendo el patrón Modelo-Vista-Controlador (MVC). Permite gestionar recetas con CRUD completo, búsquedas y filtros por título, ingrediente, dificultad o tiempo de preparación. Comenzó usando un archivo JSON como base de datos y luego se migró a MySQL. Incluye validaciones con Zod y un frontend básico en HTML, CSS y JS para crear, editar, eliminar y filtrar recetas dinámicamente.
 
 - **[Transportation Tracking](https://github.com/BryanGuapulema/transportTracking)**: Backend desarrollado  con Node.js, Express y MongoDB. Diseñado para gestionar y consultar en tiempo real el estado del transporte público de una ciudad. Permite acceder a información de líneas, estaciones, vehículos, horarios e incidentes, con autenticación JWT y roles de usuario para operadores y administradores. Es un proyecto pensado para mostrar buenas prácticas en el diseño de APIs REST y servir como base para aplicaciones de movilidad urbana.
+  
+- **[Project Management API](https://github.com/BryanGuapulema/ProjectManagementAPI)** – Node.js, Express, MongoDB API REST para gestión de proyectos colaborativos con autenticación JWT, control de roles (admin / user), validaciones con Zod y manejo centralizado de errores. Incluye CRUD de usuarios, boards, listas y tareas, con control de acceso por ownership y servicios desacoplados para la lógica de negocio.
+
 </div>
 
 <div align="center">
