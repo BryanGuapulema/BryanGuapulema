@@ -1,4 +1,4 @@
-# Hola, soy Bryan 👋
+# 👋 Hola, soy Bryan 
 
 Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo de software de distinto tipo con énfasis en recorridos virtuales con Unreal Engine, videojuegos IA y desarrollo backend de aplicaciones.
 
@@ -74,8 +74,10 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=BryanGuapulema&theme=radical&no-frame=false&no-bg=false&margin-w=4" >
+<img src="https://github-readme-stats.vercel.app/api?username=BryanGuapulema&theme=radical&show_icons=true&count_private=true">
 <img src="https://nirzak-streak-stats.vercel.app/?user=BryanGuapulema&theme=radical&hide_border=false">
 </div>
+
 
 
 <!-- -
