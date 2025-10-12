@@ -8,7 +8,7 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
     - Miembro de la Comunidad Unreal Engine Ecuador
 - 📍 **Ubicación**: Riobamba - Ecuador
 - 💼 **Campo**: Desarrollo backend / VR / Desarrollo de videojuegos
-- 🌱 **Aprendizaje actual**: Node.js / Ingeniería de datos
+- 🌱 **Aprendizaje actual**: Node.js / Ingeniería de datos / Inteligencia de Negocios 
 - ✨ **Siempre dispuesto o aprender**
 
 ## Contacto
