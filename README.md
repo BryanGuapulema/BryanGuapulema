@@ -62,7 +62,7 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 
 </div>
 
-<div align="center" height="128">
+<div align="center" height="256px">
     <a href="https://bgportfolio-git-main-bryanguapulemas-projects.vercel.app/" target="_blank" >
         <img src="https://img.shields.io/badge/PORTAFOLIO-8A2BE2"  alt="portfolio" />
     </a>
