@@ -55,6 +55,10 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 - **[`Transportation Tracking`](https://github.com/BryanGuapulema/transportTracking)**: Backend desarrollado  con Node.js, Express y MongoDB. Diseñado para gestionar y consultar en tiempo real el estado del transporte público de una ciudad. Permite acceder a información de líneas, estaciones, vehículos, horarios e incidentes, con autenticación JWT y roles de usuario para operadores y administradores. Es un proyecto pensado para mostrar buenas prácticas en el diseño de APIs REST y servir como base para aplicaciones de movilidad urbana.
   
 - **[`Sistema de Reservas de Hotel - Backend`](https://github.com/BryanGuapulema/hotel_reservation_backend)**: API RESTful para gestión de reservas de hotel con Node.js, Express y MongoDB. Incluye autenticación con JWT, control de roles (user / admin), manejo de habitaciones y reservas, y validación de datos con Zod. Backend seguro, escalable y diseñado con MVC.
+- 
+
+- **[`Adventure Works Analytics –  Microsoft Fabric`](https://github.com/BryanGuapulema/AdventureWorksAnalytics-MicrosoftFabric)**: Proyecto de Inteligencia de Negocios end-to-end desarrollado en Microsoft Fabric ,siguiendo la arquitectura Medallion (Bronze–Silver–Gold). El objetivo es integrar datos comerciales de Adventure Works provenientes de distintas fuentes para generar insights gerenciales que aporten a la toma de decisiones estratégicas.
+
 
 <!--
 - **[`Gestor de Recetas de Cocina`](https://github.com/BryanGuapulema/recipe_fullstack)**: API RESTful construida con Node.js y Express siguiendo el patrón Modelo-Vista-Controlador (MVC). Permite gestionar recetas con CRUD completo, búsquedas y filtros por título, ingrediente, dificultad o tiempo de preparación. Comenzó usando un archivo JSON como base de datos y luego se migró a MySQL. Incluye validaciones con Zod y un frontend básico en HTML, CSS y JS para crear, editar, eliminar y filtrar recetas dinámicamente.
