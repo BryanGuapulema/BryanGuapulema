@@ -22,27 +22,26 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
   </a>
   <a href="https://wa.me/593987613597" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>  
-    
+  </a>      
 </div>
 
 ## 💻 Tech Stack
 <div align="center">
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /> 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />  
-<img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" /> 
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> 
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />  
+    <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> 
 </div>
 
 ## Proyectos Destacados
@@ -53,15 +52,13 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
   
 - **[`Project Management API`](https://github.com/BryanGuapulema/Project-Management-API)** – Node.js, Express, MongoDB API REST para gestión de proyectos colaborativos con autenticación JWT, control de roles (admin / user), validaciones con Zod y manejo centralizado de errores. Incluye CRUD de usuarios, boards, listas y tareas, con control de acceso por ownership y servicios desacoplados para la lógica de negocio.
 
+- **[`Transportation Tracking`](https://github.com/BryanGuapulema/transportTracking)**: Backend desarrollado  con Node.js, Express y MongoDB. Diseñado para gestionar y consultar en tiempo real el estado del transporte público de una ciudad. Permite acceder a información de líneas, estaciones, vehículos, horarios e incidentes, con autenticación JWT y roles de usuario para operadores y administradores. Es un proyecto pensado para mostrar buenas prácticas en el diseño de APIs REST y servir como base para aplicaciones de movilidad urbana.
+  
 - **[`Sistema de Reservas de Hotel - Backend`](https://github.com/BryanGuapulema/hotel_reservation_backend)**: API RESTful para gestión de reservas de hotel con Node.js, Express y MongoDB. Incluye autenticación con JWT, control de roles (user / admin), manejo de habitaciones y reservas, y validación de datos con Zod. Backend seguro, escalable y diseñado con MVC.
 
 <!--
 - **[`Gestor de Recetas de Cocina`](https://github.com/BryanGuapulema/recipe_fullstack)**: API RESTful construida con Node.js y Express siguiendo el patrón Modelo-Vista-Controlador (MVC). Permite gestionar recetas con CRUD completo, búsquedas y filtros por título, ingrediente, dificultad o tiempo de preparación. Comenzó usando un archivo JSON como base de datos y luego se migró a MySQL. Incluye validaciones con Zod y un frontend básico en HTML, CSS y JS para crear, editar, eliminar y filtrar recetas dinámicamente.
 -->
-
-- **[`Transportation Tracking`](https://github.com/BryanGuapulema/transportTracking)**: Backend desarrollado  con Node.js, Express y MongoDB. Diseñado para gestionar y consultar en tiempo real el estado del transporte público de una ciudad. Permite acceder a información de líneas, estaciones, vehículos, horarios e incidentes, con autenticación JWT y roles de usuario para operadores y administradores. Es un proyecto pensado para mostrar buenas prácticas en el diseño de APIs REST y servir como base para aplicaciones de movilidad urbana.
-  
-
 </div>
 
 <div align="center">
