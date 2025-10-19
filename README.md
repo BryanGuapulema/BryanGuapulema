@@ -1,6 +1,6 @@
-# 👋 Hola, soy Bryan 
+# 👋 Hola, soy `Bryan`
 
-Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo de software de distinto tipo con énfasis en recorridos virtuales con Unreal Engine, videojuegos IA y desarrollo backend de aplicaciones.
+Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo de software de distinto tipo con énfasis en aplicaciones de `Unreal Engine` orientadas a `videojuegos`,  `IA`, `VR` y desarrollo `backend` de aplicaciones con Node.js.
 
 ## Acerca de mí
 - 🎓 **Principal**: 
@@ -47,19 +47,20 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 
 ## Proyectos Destacados
 
-
-    
 <div>
     
-- **[Videojuego de realidad virtual e Inteigencia Artificial para la exploración de descenrios turisticos de la ciudad de Riobamba](https://youtu.be/3J5ZmO6B_2A)**: Aplicativo para computadoras y gafas de realidad virtual compuesto de dos modos de juego: Videojuego y Recorrido virtual. Se recrearon 4 lugares turisticos de la ciudad de Riobamba aplicando tecnicas de gamificación y de inteligencia artificial para simular realismo en los espacios. Incluye un sistema de recomendaciones y un guía virtual en el recorrido turistico.
-
-- **[Sistema de Reservas de Hotel - Backend](https://github.com/BryanGuapulema/hotel_reservation_backend)**: API RESTful para gestión de reservas de hotel con Node.js, Express y MongoDB. Incluye autenticación con JWT, control de roles (user / admin), manejo de habitaciones y reservas, y validación de datos con Zod. Backend seguro, escalable y diseñado con MVC.
+- **[`Videojuego de realidad virtual e Inteigencia Artificial para la exploración de descenrios turisticos de la ciudad de Riobamba`](https://youtu.be/3J5ZmO6B_2A)**: Aplicativo para computadoras y gafas de realidad virtual compuesto de dos modos de juego: Videojuego y Recorrido virtual. Se recrearon 4 lugares turisticos de la ciudad de Riobamba aplicando tecnicas de gamificación y de inteligencia artificial para simular realismo en los espacios. Incluye un sistema de recomendaciones y un guía virtual en el recorrido turistico.
   
-- **[Gestor de Recetas de Cocina](https://github.com/BryanGuapulema/recipe_fullstack)**: API RESTful construida con Node.js y Express siguiendo el patrón Modelo-Vista-Controlador (MVC). Permite gestionar recetas con CRUD completo, búsquedas y filtros por título, ingrediente, dificultad o tiempo de preparación. Comenzó usando un archivo JSON como base de datos y luego se migró a MySQL. Incluye validaciones con Zod y un frontend básico en HTML, CSS y JS para crear, editar, eliminar y filtrar recetas dinámicamente.
+- **[`Project Management API`](https://github.com/BryanGuapulema/Project-Management-API)** – Node.js, Express, MongoDB API REST para gestión de proyectos colaborativos con autenticación JWT, control de roles (admin / user), validaciones con Zod y manejo centralizado de errores. Incluye CRUD de usuarios, boards, listas y tareas, con control de acceso por ownership y servicios desacoplados para la lógica de negocio.
 
-- **[Transportation Tracking](https://github.com/BryanGuapulema/transportTracking)**: Backend desarrollado  con Node.js, Express y MongoDB. Diseñado para gestionar y consultar en tiempo real el estado del transporte público de una ciudad. Permite acceder a información de líneas, estaciones, vehículos, horarios e incidentes, con autenticación JWT y roles de usuario para operadores y administradores. Es un proyecto pensado para mostrar buenas prácticas en el diseño de APIs REST y servir como base para aplicaciones de movilidad urbana.
+- **[`Sistema de Reservas de Hotel - Backend`](https://github.com/BryanGuapulema/hotel_reservation_backend)**: API RESTful para gestión de reservas de hotel con Node.js, Express y MongoDB. Incluye autenticación con JWT, control de roles (user / admin), manejo de habitaciones y reservas, y validación de datos con Zod. Backend seguro, escalable y diseñado con MVC.
+
+<!--
+- **[`Gestor de Recetas de Cocina`](https://github.com/BryanGuapulema/recipe_fullstack)**: API RESTful construida con Node.js y Express siguiendo el patrón Modelo-Vista-Controlador (MVC). Permite gestionar recetas con CRUD completo, búsquedas y filtros por título, ingrediente, dificultad o tiempo de preparación. Comenzó usando un archivo JSON como base de datos y luego se migró a MySQL. Incluye validaciones con Zod y un frontend básico en HTML, CSS y JS para crear, editar, eliminar y filtrar recetas dinámicamente.
+-->
+
+- **[`Transportation Tracking`](https://github.com/BryanGuapulema/transportTracking)**: Backend desarrollado  con Node.js, Express y MongoDB. Diseñado para gestionar y consultar en tiempo real el estado del transporte público de una ciudad. Permite acceder a información de líneas, estaciones, vehículos, horarios e incidentes, con autenticación JWT y roles de usuario para operadores y administradores. Es un proyecto pensado para mostrar buenas prácticas en el diseño de APIs REST y servir como base para aplicaciones de movilidad urbana.
   
-- **[Project Management API](https://github.com/BryanGuapulema/Project-Management-API)** – Node.js, Express, MongoDB API REST para gestión de proyectos colaborativos con autenticación JWT, control de roles (admin / user), validaciones con Zod y manejo centralizado de errores. Incluye CRUD de usuarios, boards, listas y tareas, con control de acceso por ownership y servicios desacoplados para la lógica de negocio.
 
 </div>
 
