@@ -3,13 +3,13 @@
 Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo de software de distinto tipo con énfasis en aplicaciones de `Unreal Engine` orientadas a `videojuegos`,  `IA`, `VR` y desarrollo `backend` de aplicaciones con Node.js.
 
 ## Acerca de mí
-- 🎓 **Principal**: 
+-  **Principal**: 
     - Ingeniero en Tecnologías de la Información
     - Miembro de la Comunidad Unreal Engine Ecuador
-- 📍 **Ubicación**: Riobamba - Ecuador
-- 💼 **Campo**: Desarrollo backend / VR / Desarrollo de videojuegos
-- 🌱 **Aprendizaje actual**: Node.js / Ingeniería de datos / Inteligencia de Negocios 
-- ✨ **Siempre dispuesto o aprender**
+-  **Ubicación**: Riobamba - Ecuador
+-  **Campo**: Desarrollo backend / VR / Desarrollo de videojuegos
+-  **Aprendizaje actual**: Node.js / Ingeniería de datos / Inteligencia de Negocios 
+-  **Siempre dispuesto o aprender**
 
 ## Contacto
 
@@ -55,19 +55,15 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 - **[`Transportation Tracking`](https://github.com/BryanGuapulema/transportTracking)**: Backend desarrollado  con Node.js, Express y MongoDB. Diseñado para gestionar y consultar en tiempo real el estado del transporte público de una ciudad. Permite acceder a información de líneas, estaciones, vehículos, horarios e incidentes, con autenticación JWT y roles de usuario para operadores y administradores. Es un proyecto pensado para mostrar buenas prácticas en el diseño de APIs REST y servir como base para aplicaciones de movilidad urbana.
   
 - **[`Sistema de Reservas de Hotel - Backend`](https://github.com/BryanGuapulema/hotel_reservation_backend)**: API RESTful para gestión de reservas de hotel con Node.js, Express y MongoDB. Incluye autenticación con JWT, control de roles (user / admin), manejo de habitaciones y reservas, y validación de datos con Zod. Backend seguro, escalable y diseñado con MVC.
-- 
 
 - **[`Adventure Works Analytics –  Microsoft Fabric`](https://github.com/BryanGuapulema/AdventureWorksAnalytics-MicrosoftFabric)**: Proyecto de Inteligencia de Negocios end-to-end desarrollado en Microsoft Fabric ,siguiendo la arquitectura Medallion (Bronze–Silver–Gold). El objetivo es integrar datos comerciales de Adventure Works provenientes de distintas fuentes para generar insights gerenciales que aporten a la toma de decisiones estratégicas.
 
 - **[`Adventure Works Analytics –  AWS`](https://github.com/BryanGuapulema/Hackaton-2)**: Solución completa de Inteligencia de Negocios desarrollada sobre la nube de AWS, diseñada para analizar el desempeño comercial de Adventure Works Cycles, una empresa manufacturera y distribuidora de productos de ciclismo. El proyecto implementa un pipeline automatizado end-to-end, desde la extracción de datos de múltiples fuentes (GitHub, MySQL y Excel) hasta la visualización de indicadores gerenciales en Power BI. Incluye un proceso de carga incremental mensual, registro de logs en DynamoDB, almacenamiento estructurado en S3, y transformación SQL serverless con Athena.
 
-<!--
-- **[`Gestor de Recetas de Cocina`](https://github.com/BryanGuapulema/recipe_fullstack)**: API RESTful construida con Node.js y Express siguiendo el patrón Modelo-Vista-Controlador (MVC). Permite gestionar recetas con CRUD completo, búsquedas y filtros por título, ingrediente, dificultad o tiempo de preparación. Comenzó usando un archivo JSON como base de datos y luego se migró a MySQL. Incluye validaciones con Zod y un frontend básico en HTML, CSS y JS para crear, editar, eliminar y filtrar recetas dinámicamente.
--->
 </div>
 
-<div align="center">
-    <a href="https://bgportfolio-git-main-bryanguapulemas-projects.vercel.app/" target="_blank" height="64">
+<div align="center" height="128">
+    <a href="https://bgportfolio-git-main-bryanguapulemas-projects.vercel.app/" target="_blank" >
         <img src="https://img.shields.io/badge/PORTAFOLIO-8A2BE2"  alt="portfolio" />
     </a>
 </div>
