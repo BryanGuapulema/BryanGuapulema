@@ -41,6 +41,7 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+    
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> 
 </div>
 
@@ -73,7 +74,8 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=BryanGuapulema&theme=radical&no-frame=false&no-bg=false&margin-w=4" >
-<img src="https://github-readme-stats.vercel.app/api?username=BryanGuapulema&theme=radical&show_icons=true&count_private=true">
+
+    <img src="https://github-readme-stats.vercel.app/api?username=BryanGuapulema&theme=radical&show_icons=true&count_private=true">
 <img src="https://nirzak-streak-stats.vercel.app/?user=BryanGuapulema&theme=radical&hide_border=false">
 </div>
 
