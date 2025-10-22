@@ -50,7 +50,7 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 
 <div>
     
-- **[`Videojuego de realidad virtual e Inteigencia Artificial para la exploración de descenrios turisticos de la ciudad de Riobamba`](https://youtu.be/3J5ZmO6B_2A)**: Aplicativo para computadoras y gafas de realidad virtual compuesto de dos modos de juego: Videojuego y Recorrido virtual. Se recrearon 4 lugares turisticos de la ciudad de Riobamba aplicando tecnicas de gamificación y de inteligencia artificial para simular realismo en los espacios. Incluye un sistema de recomendaciones y un guía virtual en el recorrido turistico.
+- **[`Videojuego de realidad virtual e Inteigencia Artificial para la exploración de descenrios turisticos de la ciudad de Riobamba`](https://youtu.be/3J5ZmO6B_2A)**: Aplicativo para computadoras y gafas de realidad virtual compuesto de dos modos de juego: Videojuego y Recorrido virtual. Se recrearon 4 lugares turisticos de la ciudad de Riobamba aplicando tecnicas de gamificación y de inteligencia artificial para simular realismo en los espacios. Incluye un sistema de recomendaciones y un guía virtual en el recorrido turistico. Autores: Bryan Guapulema, Anthony Pombosa
   
 - **[`Project Management API`](https://github.com/BryanGuapulema/Project-Management-API)** – Node.js, Express, MongoDB API REST para gestión de proyectos colaborativos con autenticación JWT, control de roles (admin / user), validaciones con Zod y manejo centralizado de errores. Incluye CRUD de usuarios, boards, listas y tareas, con control de acceso por ownership y servicios desacoplados para la lógica de negocio.
 
