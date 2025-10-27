@@ -4,6 +4,7 @@ Ingeniero en Tecnologías de la Información con conocimientos en el desarrollo 
 
 ## Acerca de mí
 -  **Principal**: 
+    - 22 años
     - Ingeniero en Tecnologías de la Información
     - Miembro de la Comunidad Unreal Engine Ecuador
 -  **Ubicación**: Riobamba - Ecuador
